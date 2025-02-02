@@ -1,5 +1,4 @@
-# Visual Studio ve .idea klasörlerini yok say
-.idea/
+# Visual Studio klasörlerini yok say
 .vscode/
 
 # Derleme ve geçici dosyaları yok say
