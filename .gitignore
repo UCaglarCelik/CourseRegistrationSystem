@@ -1,0 +1,13 @@
+# Visual Studio ve .idea klasörlerini yok say
+.idea/
+.vscode/
+
+# Derleme ve geçici dosyaları yok say
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortam dosyalarını yok say
+venv/
+.env/
